@@ -78,7 +78,6 @@ class UI{
   clearProfile(){
     this.profile.innerHTML = '';
     this.latestRepos.innerHTML = '';
-    // this.profile.remove();
-    // this.latestRepos.remove();
+
   }
 }
